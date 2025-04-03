@@ -34,6 +34,11 @@ Dataset](https://universe.roboflow.com/tfg-2nmge/yolo-yejbs).
 
 I used Streamlit to create a user-friendly interface for easy interaction with the YOLOv8 model. Below are screenshots of each part:
 
+### About page
+
+![About](https://github.com/sevdaimany/YOLOv8-Medical-Imaging/blob/master/intro_screenshot.png)
+
+
 ### Object Detection
 
 ![Object Detection Screenshot](https://github.com/sevdaimany/YOLOv8-Medical-Imaging/blob/master/detection/detection_screenshot.png)
@@ -92,7 +97,7 @@ source venv/bin/activate
 ## Usage
 **Using the Provided Demo Images**
 
-I've included a set of demo images in the DEMO_IMAGES directory. You can use these images to quickly see 
+I've made it easy for you to get started with our project without the need to download a dataset. I've included a set of demo images in the DEMO_IMAGES directory. You can use these images to quickly see 
 how our project works.
 
 **Run the Streamlit App:**
