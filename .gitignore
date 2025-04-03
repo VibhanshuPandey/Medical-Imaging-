@@ -1,4 +1,3 @@
-
 # Python
 *.pyc
 *.pyo
@@ -7,8 +6,8 @@ __pycache__/
 *.so
 
 # Environment files
-.env
-.medenv
+.medenv/
+medenv/
 
 # VSCode settings
 .vscode/
