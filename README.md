@@ -34,11 +34,6 @@ Dataset](https://universe.roboflow.com/tfg-2nmge/yolo-yejbs).
 
 I used Streamlit to create a user-friendly interface for easy interaction with the YOLOv8 model. Below are screenshots of each part:
 
-### About page
-
-![About](https://github.com/sevdaimany/YOLOv8-Medical-Imaging/blob/master/intro_screenshot.png)
-
-
 ### Object Detection
 
 ![Object Detection Screenshot](https://github.com/sevdaimany/YOLOv8-Medical-Imaging/blob/master/detection/detection_screenshot.png)
